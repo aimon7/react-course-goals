@@ -31,3 +31,12 @@
 .form-control.invalid label {
     color: red;
 }
+
+.invalid input {
+     border-color: red;
+     background: #ffd7d7;
+ }
+
+.invalid label {
+     color: red;
+ }
